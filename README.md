@@ -6,15 +6,15 @@
 ## Install 安装方法
 1. 下载压缩包，其中后缀中含有py的为安装了python环境的VSCodium，含有C的为安装了C环境的VScodium。
 通过网盘分享的文件：VSCodium绿色版
-链接: https://pan.baidu.com/s/1pdLPPm8HioK1u-94RNMqyw 
-提取码: 9vcs
-2. 解压缩(非中文目录)  
-3. 中文版直接运行启动.bat 英文版运行Start.bat（中英文的差距主要在VSCodium中是否安装了简体中文插件）  
-4. 关于中英文语言的切换：如果下载的是中文版，则已经安装好了简体中文插件，否则需要在VSCodium左侧的插件商店中下载简体中文插件。
+链接: https://pan.baidu.com/s/194i8lXtTzlXBmviuAlre8Q
+提取码: vva4
+3. 解压缩(非中文目录)  
+4. 中文版直接运行启动.bat 英文版运行Start.bat（中英文的差距主要在VSCodium中是否安装了简体中文插件）  
+5. 关于中英文语言的切换：如果下载的是中文版，则已经安装好了简体中文插件，否则需要在VSCodium左侧的插件商店中下载简体中文插件。
 （插件商店为VScodium左侧的小图标的第五个）
-5. 在VSCodium中使用（Ctrl+Shift+P）快捷键 打开命令面板。
-6. 在命令面板中，输入Configure Display Language，选择Configure Display Language命令，显示已安装的语言包列表。
-7. 在已安装的语言包列表中选择需要切换的语言包。
+6. 在VSCodium中使用（Ctrl+Shift+P）快捷键 打开命令面板。
+7. 在命令面板中，输入Configure Display Language，选择Configure Display Language命令，显示已安装的语言包列表。
+8. 在已安装的语言包列表中选择需要切换的语言包。
 
 
 ## Hello World 测试
